@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4df9fc81-b96c-4e16-b23a-d9d9ce4b6157" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/data_preprocess/data_preprocess_ucihar.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/utils/trainer.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Hhcse7CUsREn8ytchMShzg97yo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Exercise/DeepLearning/Multimode_HAR&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="backbones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/backbones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backbones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/backbones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_preprocess_insole" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess/data_preprocess_insole.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_preprocess_insole" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess/data_preprocess_insole.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_preprocess_pamap2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess/data_preprocess_pamap2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_preprocess_pamap2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess/data_preprocess_pamap2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in trainer.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/utils/trainer.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in trainer.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Multimode_HAR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/utils/trainer.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.backbones" />
+        <item itemvalue="Python.data_preprocess_insole" />
+        <item itemvalue="Python.data_preprocess_pamap2" />
+        <item itemvalue="Python tests.Python tests in trainer.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df9fc81-b96c-4e16-b23a-d9d9ce4b6157" name="Changes" comment="" />
+      <created>1668740964204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668740964204</updated>
+      <workItem from="1668740965445" duration="1881000" />
+      <workItem from="1668743936461" duration="4183000" />
+      <workItem from="1668761812892" duration="10155000" />
+      <workItem from="1668779054341" duration="143000" />
+      <workItem from="1668819817550" duration="15283000" />
+      <workItem from="1668845290829" duration="12106000" />
+      <workItem from="1668909484539" duration="7916000" />
+      <workItem from="1668931139630" duration="17866000" />
+      <workItem from="1668992463783" duration="17888000" />
+      <workItem from="1669204176903" duration="1053000" />
+      <workItem from="1669251993626" duration="5792000" />
+      <workItem from="1669265671724" duration="3219000" />
+      <workItem from="1669278273327" duration="1847000" />
+      <workItem from="1669281276728" duration="1346000" />
+      <workItem from="1669284435842" duration="1558000" />
+      <workItem from="1669340868754" duration="10328000" />
+      <workItem from="1669370366970" duration="1147000" />
+      <workItem from="1669466873194" duration="620000" />
+      <workItem from="1670567428718" duration="4000" />
+      <workItem from="1670900688573" duration="432000" />
+      <workItem from="1670906992823" duration="1474000" />
+      <workItem from="1670910159809" duration="1073000" />
+      <workItem from="1670911251094" duration="13585000" />
+      <workItem from="1672192902268" duration="79000" />
+      <workItem from="1672193977327" duration="65000" />
+      <workItem from="1672458217721" duration="1846000" />
+      <workItem from="1673758668924" duration="20032000" />
+      <workItem from="1673785698183" duration="577000" />
+      <workItem from="1673831308939" duration="31570000" />
+      <workItem from="1673920110170" duration="25113000" />
+      <workItem from="1673949221203" duration="4510000" />
+      <workItem from="1674005094753" duration="13678000" />
+      <workItem from="1674089738265" duration="9849000" />
+      <workItem from="1674177407781" duration="1862000" />
+      <workItem from="1674784001675" duration="7038000" />
+      <workItem from="1674813317829" duration="2342000" />
+      <workItem from="1676199412645" duration="48656000" />
+      <workItem from="1676343236739" duration="7022000" />
+      <workItem from="1676354260045" duration="17356000" />
+      <workItem from="1676380124631" duration="400000" />
+      <workItem from="1676380700583" duration="2251000" />
+      <workItem from="1676423311063" duration="25470000" />
+      <workItem from="1676460033496" duration="74000" />
+      <workItem from="1676461045666" duration="21033000" />
+      <workItem from="1676534891637" duration="11016000" />
+      <workItem from="1676551739243" duration="76000" />
+      <workItem from="1676551820241" duration="5764000" />
+      <workItem from="1676596278279" duration="33354000" />
+      <workItem from="1676682308466" duration="22718000" />
+      <workItem from="1676719658944" duration="2013000" />
+      <workItem from="1676789955301" duration="2313000" />
+      <workItem from="1676881840804" duration="30000" />
+      <workItem from="1676882497708" duration="8849000" />
+      <workItem from="1676948982345" duration="9829000" />
+      <workItem from="1677028712852" duration="21621000" />
+      <workItem from="1677117291916" duration="25948000" />
+      <workItem from="1677213519322" duration="13901000" />
+      <workItem from="1677230108036" duration="3380000" />
+      <workItem from="1677315610408" duration="5308000" />
+      <workItem from="1677389692430" duration="20113000" />
+      <workItem from="1677460003534" duration="893000" />
+      <workItem from="1677470503624" duration="13002000" />
+      <workItem from="1677492583395" duration="8006000" />
+      <workItem from="1677545768196" duration="16870000" />
+      <workItem from="1677635594555" duration="11487000" />
+      <workItem from="1677719702037" duration="19630000" />
+      <workItem from="1677998109522" duration="8621000" />
+      <workItem from="1678023191873" duration="3080000" />
+      <workItem from="1678064162603" duration="27434000" />
+      <workItem from="1678102273980" duration="8313000" />
+      <workItem from="1678256214750" duration="12132000" />
+      <workItem from="1678324484818" duration="267000" />
+      <workItem from="1678344018129" duration="13636000" />
+      <workItem from="1679293824044" duration="17245000" />
+      <workItem from="1679360518930" duration="15594000" />
+      <workItem from="1679396380134" duration="8055000" />
+      <workItem from="1679465963644" duration="7654000" />
+      <workItem from="1679484156339" duration="1605000" />
+      <workItem from="1680509777352" duration="661000" />
+      <workItem from="1680520557577" duration="23000" />
+      <workItem from="1681091102921" duration="745000" />
+      <workItem from="1681094899107" duration="5798000" />
+      <workItem from="1681113644313" duration="328000" />
+      <workItem from="1681697447815" duration="6280000" />
+      <workItem from="1681957411842" duration="45000" />
+      <workItem from="1682333365559" duration="9000" />
+      <workItem from="1682909820611" duration="574000" />
+      <workItem from="1682917617258" duration="18241000" />
+      <workItem from="1682990146882" duration="7324000" />
+      <workItem from="1683075323267" duration="20266000" />
+      <workItem from="1683180396497" duration="4094000" />
+      <workItem from="1683189630455" duration="2125000" />
+      <workItem from="1683206043574" duration="2189000" />
+      <workItem from="1683247269367" duration="22340000" />
+      <workItem from="1683339756207" duration="25998000" />
+      <workItem from="1683421220331" duration="29351000" />
+      <workItem from="1683507225334" duration="30109000" />
+      <workItem from="1683551361848" duration="31038000" />
+      <workItem from="1683681045416" duration="965000" />
+      <workItem from="1683684600594" duration="36746000" />
+      <workItem from="1683938914878" duration="9155000" />
+      <workItem from="1684130029163" duration="13897000" />
+      <workItem from="1684154884245" duration="3527000" />
+      <workItem from="1684397605071" duration="6008000" />
+      <workItem from="1684559447062" duration="15231000" />
+      <workItem from="1684653341329" duration="7475000" />
+      <workItem from="1684717696821" duration="69744000" />
+      <workItem from="1685431554579" duration="15672000" />
+      <workItem from="1685515396292" duration="3900000" />
+      <workItem from="1685964463477" duration="4500000" />
+      <workItem from="1686038364702" duration="6004000" />
+      <workItem from="1686211450949" duration="783000" />
+      <workItem from="1686213151710" duration="7824000" />
+      <workItem from="1686641855778" duration="4106000" />
+      <workItem from="1687157638199" duration="5000" />
+      <workItem from="1687658460185" duration="2512000" />
+      <workItem from="1687661343781" duration="2658000" />
+      <workItem from="1688040337643" duration="463000" />
+      <workItem from="1688977689648" duration="646000" />
+      <workItem from="1689167826781" duration="35000" />
+      <workItem from="1691584234920" duration="921000" />
+      <workItem from="1691585198302" duration="274000" />
+      <workItem from="1691585517783" duration="753000" />
+      <workItem from="1691826554382" duration="8437000" />
+      <workItem from="1691975999271" duration="6296000" />
+      <workItem from="1692172196912" duration="612000" />
+      <workItem from="1696148104788" duration="3271000" />
+      <workItem from="1698818944580" duration="222000" />
+      <workItem from="1701748284159" duration="2032000" />
+      <workItem from="1702191787994" duration="799000" />
+      <workItem from="1702640450696" duration="797000" />
+      <workItem from="1703124109388" duration="17022000" />
+      <workItem from="1703153254366" duration="27000" />
+      <workItem from="1703308008133" duration="81000" />
+      <workItem from="1703308098712" duration="11816000" />
+      <workItem from="1703645033259" duration="776000" />
+      <workItem from="1703751576217" duration="2280000" />
+      <workItem from="1703837718735" duration="1882000" />
+      <workItem from="1703918043753" duration="6159000" />
+      <workItem from="1704000777248" duration="4871000" />
+      <workItem from="1704008678511" duration="3000" />
+      <workItem from="1704010856890" duration="4015000" />
+      <workItem from="1704016874358" duration="121000" />
+      <workItem from="1704017012201" duration="936000" />
+      <workItem from="1704018721243" duration="818000" />
+      <workItem from="1704090495581" duration="6380000" />
+      <workItem from="1704169100026" duration="2542000" />
+      <workItem from="1704271616051" duration="6709000" />
+      <workItem from="1704362362912" duration="2219000" />
+      <workItem from="1704371818580" duration="5000" />
+      <workItem from="1704372335735" duration="22323000" />
+      <workItem from="1704513400027" duration="30952000" />
+      <workItem from="1704702065551" duration="6618000" />
+      <workItem from="1704785883766" duration="4952000" />
+      <workItem from="1704791956625" duration="895000" />
+      <workItem from="1704800149932" duration="604000" />
+      <workItem from="1704802068279" duration="25000" />
+      <workItem from="1704864561078" duration="1705000" />
+      <workItem from="1704890283053" duration="3402000" />
+      <workItem from="1704936954840" duration="4401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/backbones.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Multimode_HAR$train.coverage" NAME="train Coverage Results" MODIFIED="1668776253447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$backbones.coverage" NAME="backbones Coverage Results" MODIFIED="1683103297476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$test.coverage" NAME="test Coverage Results" MODIFIED="1704454532064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$data_preprocess_insole.coverage" NAME="data_preprocess_insole Coverage Results" MODIFIED="1669283715765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocess" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$base_loader.coverage" NAME="base_loader Coverage Results" MODIFIED="1668820639775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocess" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$main.coverage" NAME="main Coverage Results" MODIFIED="1704943431705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$.coverage" NAME=" Coverage Results" MODIFIED="1668833359743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$data_preprocess_utils.coverage" NAME="data_preprocess_utils Coverage Results" MODIFIED="1668820634782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocess" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$data_preprocess_pamap2.coverage" NAME="data_preprocess_pamap2 Coverage Results" MODIFIED="1669004650022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocess" />
+    <SUITE FILE_PATH="coverage/Multimode_HAR$data_preprocess_ucihar.coverage" NAME="data_preprocess_ucihar Coverage Results" MODIFIED="1668820644721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_preprocess" />
+  </component>
+</project>

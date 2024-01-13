@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="pathToExecutable" value="D:\StudyApp\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="2432ddfa-b064-45bc-ab1d-e7ef6bb6327d" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.8.8 (sftp://intelligence@192.168.111.129:22/home/intelligence/anaconda3/bin/python)" project-jdk-type="Python SDK" />
+</project>

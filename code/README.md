@@ -1,0 +1,1 @@
+Codes for paper “CAPPIMU-A Composite Activities Dataset for Human Action Recognition Utilizing Plantar Pressure and IMU Sensors”
